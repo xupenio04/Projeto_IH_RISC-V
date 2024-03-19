@@ -70,7 +70,7 @@ A data de entrega do projeto será especificada no Classroom, assim como a quant
 
 ### Modelo de entrega
 
-A entrega consiste em um relatório seguindo o modelo disponível [aqui](https://docs.google.com/document/d/116sukTXOizb0bplubUOHhdNBqpwtk3cR4Dwaqg-TO7I/edit?usp=sharing). Não deve ser extenso, mas precisa conter todas as informações descritas para a avaliação do projeto.
+A entrega consiste em um relatório seguindo o modelo. Não deve ser extenso, mas precisa conter todas as informações descritas para a avaliação do projeto.
 
 ### Avaliação
 
